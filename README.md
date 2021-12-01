@@ -5,7 +5,7 @@
 <br/>
  -->
 
-I'm a Computer Science student at University of São Paulo and I'm currently learning frontend development. 
+I'm a Computer Science student at University of São Paulo and I'm currently learning web development, more specifically frontend development, but I also want to learn backend so I can become a FullStack Developer in the future. 
 
 Here you can see the projects I've made 😊.
 
