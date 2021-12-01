@@ -5,23 +5,18 @@
 <br/>
  -->
 
-I'm a Computer Science student at University of São Paulo and I'm currently learning web development, more specifically frontend development, but I also want to learn backend so I can become a FullStack Developer in the future. 
+I'm a Computer Science student at University of São Paulo and I'm currently learning web development, more specifically frontend development. But I also want to learn backend, so I can become a FullStack Developer in the future. 
 
 Here you can see the projects I've made 😊.
 
 #### ✒ Some tools and languages I use:
-- HTML/CSS
-- Javascript
-- Vue.js
-- React
-- Next.js
-- SASS
-- Figma 
-- Git/Github
+- The Holy Trinity: HTML / CSS / Javascript
+- Frameworks: Vue.js / React / Next.js / SASS
+- Design: Figma / Photoshop 
+- Workflow: Git / Github
 
 
 #### 🌼 My hobbies:
 - Drawing
 - Reading books and mangas
-- Watching anime
 - Watching cute cat compilations on youtube
