@@ -5,10 +5,11 @@
 <br/>
  -->
 
-I'm a Computer Science student at University of São Paulo and I'm currently learning web development and product design. Here you can see the projects I've made 😊.
+I'm a Computer Science student at University of São Paulo and I'm currently learning web development and product design. 
 
+Here you can see the projects I've made 😊.
 
-✒ Some tools and languages I use:
+#### ✒ Some tools and languages I use:
 - HTML/CSS
 - Javascript
 - Vue.js
@@ -18,9 +19,8 @@ I'm a Computer Science student at University of São Paulo and I'm currently lea
 - Figma 
 - Git/Github
 
-<br/>
 
-🌼 My hobbies:
+#### 🌼 My hobbies:
 - Drawing
 - Reading books and mangas
 - Watching anime
