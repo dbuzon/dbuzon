@@ -5,7 +5,7 @@
 <br/>
  -->
 
-I'm a Computer Science student at University of São Paulo and I'm currently learning web development and product design. 
+I'm a Computer Science student at University of São Paulo and I'm currently learning frontend development. 
 
 Here you can see the projects I've made 😊.
 
