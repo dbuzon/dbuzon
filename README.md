@@ -1,9 +1,26 @@
 ## Hello, I'm Debora ฅ^•ﻌ•^ฅ
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/13/7a/e7/137ae7b4d21ce5445d3c01daf757e701.gif" height=200px/>
+<img align="center" alt="GIF" src="https://64.media.tumblr.com/02fe459e5bca3740827acea411bb60d3/46ec5cecd78c394f-a2/s400x600/5420ce7fdc5e0a449a5136844c99b5b2e781b301.gifv" height=250px/>
 
-💻 ∘ I’m a computer science student
+<br/>
 
-🌸 ∘ Studying japanese
+I'm a Computer Science student at University of São Paulo and I'm currently learning web development and product design. Here you can see the projects I've made 😊.
 
-📗 ∘ learning how to be a front end developer
+
+✒ Some tools and languages I use:
+- HTML/CSS
+- Javascript
+- Vue.js
+- React
+- Next.js
+- SASS
+- Figma 
+- Git/Github
+
+<br/>
+
+🌼 My hobbies:
+- Drawing
+- Reading books and mangas
+- Watching anime
+- Watching cute cat compilations on youtube
