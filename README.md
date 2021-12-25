@@ -10,7 +10,7 @@ I'm a Computer Science student at University of São Paulo and I'm currently lea
 Here you can see the projects I've made 😊.
 
 #### ✒ Some tools and languages I use:
-- The Holy Trinity: HTML / CSS / Javascript
+- The Holy Trinity: HTML / CSS / Javascript (also Typescript)
 - Frameworks: Vue.js / React / Next.js / SASS
 - Design: Figma / Photoshop 
 - Workflow: Git / Github
