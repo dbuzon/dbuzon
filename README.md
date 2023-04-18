@@ -1,22 +1,16 @@
-## Hello, I'm Debora ฅ^•ﻌ•^ฅ
+<div align="center">
+  <img src="https://i.pinimg.com/564x/7c/2b/48/7c2b482b2f1929ea449350da67858e97.jpg"> 
+  <h3>Hi there, I’m Debora ヽ(´･ᴗ･ ` )</h3>
+  <p>
+    <sup>
+      ☼ A Full Stack Dev by day and Game Dev by night ☾<br>
+      Studying for a Bachelor's degree in Computer Science.<br>
+      Fullstack dev intern experienced with Django, React, Postgres and JavaScript.
+    </sup>
+  </p>
 
-<!-- <img align="right" alt="GIF" src="https://64.media.tumblr.com/02fe459e5bca3740827acea411bb60d3/46ec5cecd78c394f-a2/s400x600/5420ce7fdc5e0a449a5136844c99b5b2e781b301.gifv" height=250px/>
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/deborabuzon)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/debs99_)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square&color=blue)](https://drive.google.com/file/d/1LgFxxiAkyP6v-9iavsFYcXGcZi22nVL-/view?usp=sharing)
 
-<br/>
- -->
-
-I'm a Computer Science student at University of São Paulo and I'm currently learning web development, more specifically frontend development. But I also want to learn backend, so I can become a FullStack Developer in the future. 
-
-Here you can see the projects I've made 😊.
-
-#### ✒ Some tools and languages I use:
-- The Holy Trinity: HTML / CSS / Javascript (also Typescript)
-- Frameworks: Vue.js / React / Next.js / SASS
-- Design: Figma / Photoshop 
-- Workflow: Git / Github
-
-
-#### 🌼 My hobbies:
-- Drawing
-- Reading books and mangas
-- Watching cute cat compilations on youtube
+</div>
